@@ -1,0 +1,3 @@
+[submodule "themes/purehugo-tr"]
+	path = themes/purehugo-tr
+	url = git@github.com:thunderrabbit/purehugo-tr.git
