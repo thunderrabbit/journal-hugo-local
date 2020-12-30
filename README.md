@@ -12,4 +12,4 @@ cd ~/journal-hugo-local
 hugo server --watch=false
 ```
 
-So it looks like I must have set up a symlink from the ~/journal directory which has my entries to ~/journal-hugo-local/content/journal
+Therefore must set up a symlink or hardlink from the ~/journal directory which has my entries to ~/journal-hugo-local/content/journal
