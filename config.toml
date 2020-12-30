@@ -1,8 +1,11 @@
-baseurl = "http://localhost/"
+baseurl = "http://localhost"
 languageCode = "en-us"
 title = "Thunder Rabbit"
 theme = "purehugo-tr"
 MetaDataFormat = "yaml"
+watch = "false"
+[markup.goldmark.renderer]
+unsafe= true
 [params]
     twitterName = "thunderrabbit"
     githubName = "thunderrabbit"
